@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(174): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(175): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(180): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(181): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(219): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(249): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(250): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(251): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(267): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(315): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(345): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(360): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(360): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(378): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(407): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(293): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\ing. pedro 2\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\main.cpp(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ConsoleApplication2.vcxproj -> c:\users\ing. pedro 2\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
